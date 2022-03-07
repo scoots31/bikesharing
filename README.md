@@ -28,9 +28,13 @@ Once imported into Tableau, we proceeded to construct visualizations the illustr
 
 ![Screen Shot 2022-03-06 at 6 04 13 PM](https://user-images.githubusercontent.com/93485455/156948230-9d9cc06a-d8e4-4348-903e-105ca8d83e0d.png)
 
+## Trips by Gender by Hour
+
+![Screen Shot 2022-03-06 at 6 11 39 PM](https://user-images.githubusercontent.com/93485455/156948495-8b876bb2-b1ba-487c-aabb-7d7dd3523efa.png)
+
 ## Riders by Age
 
-![Screen Shot 2022-03-06 at 6 04 13 PM](https://user-images.githubusercontent.com/93485455/156948307-c4459bd6-1d8d-4742-a761-a24b79ad410d.png)
+![Screen Shot 2022-03-06 at 6 06 25 PM](https://user-images.githubusercontent.com/93485455/156948449-90ffadf8-a54e-4b20-b919-a9c150db0208.png)
 
 ## Starting Locations by User Volume
 
@@ -41,7 +45,7 @@ Once imported into Tableau, we proceeded to construct visualizations the illustr
 ![Screen Shot 2022-03-06 at 6 08 56 PM](https://user-images.githubusercontent.com/93485455/156948381-12d745ca-8205-47fd-a5ac-6f6b010ed022.png)
 
 ## Summary
-
+The data and subsequent proposal shows that the highest volume of riders occur during the three hour blocks in the morning rush between 6am - 9am and the evening rush hour from 5pm - 9pm. In addition the data shows a steady flow throughout the weekend days of Saturday and Sunday.  In the proposal we dig deeper into those times frames to show the gender demographics breakdown. Additional research from Best Places dot com, shows the similarities between key data points in NYC and Des Moines, Iowa that relate to geographic layout, commute times, job markets and gender breakdowns.
 
 
 
